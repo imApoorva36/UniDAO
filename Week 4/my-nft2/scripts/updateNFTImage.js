@@ -5,8 +5,8 @@ const FormData = require("form-data"); // Import FormData to create a form for f
 const path = require('path');
 
 const config = {
-    apiKey: 'd905c68e6f823e95baba', // Replace with your Pinata API Key
-    apiSecret: '8c244069b32f6b71ba3e75e0de7f56d9b89c626a113f397573aa9c7089403613', // Replace with your Pinata API Secret
+    apiKey: '', // Replace with your Pinata API Key
+    apiSecret: '', // Replace with your Pinata API Secret
     pinataBaseURL: "https://api.pinata.cloud",
 };
 
